@@ -11,3 +11,5 @@ end
 get "/path2" do
   erb :"view2"
 end
+
+# be sure to remove this..
